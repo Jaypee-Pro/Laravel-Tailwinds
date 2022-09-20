@@ -1,0 +1,13 @@
+    Laravel Steps
+
+    Installation
+        - composer install global require/Laravel
+        - composer laravel new name of web
+
+    Routing 
+        - Route::get,put,post,etc 
+    Basic route:
+        - Route::get  
+
+
+    NOTE : STOP ON CONTROLLER LESSON!
